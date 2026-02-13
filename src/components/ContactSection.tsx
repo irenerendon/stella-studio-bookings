@@ -36,12 +36,12 @@ const ContactSection = () => {
               <div>
                 <p className="font-body text-sm font-medium">WhatsApp</p>
                 <a
-                  href="https://wa.me/5491100000000"
+                  href="https://wa.me/5491166459749"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="font-body text-sm text-primary hover:underline"
                 >
-                  +54 9 11 0000-0000
+                  +54 9 11 66459749
                 </a>
               </div>
             </div>
