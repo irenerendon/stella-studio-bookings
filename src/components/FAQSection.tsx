@@ -33,7 +33,7 @@ const FAQSection = () => {
     <section className="py-24 px-6" id="faq">
       <div className="container max-w-2xl">
         <div className="text-center mb-12 fade-in-up">
-          <h2 className="font-heading text-3xl md:text-4xl font-light tracking-wide mb-4">
+          <h2 className="font-heading text-3xl md:text-4xl font-light tracking-[0.08em] mb-4">
             Preguntas <span className="text-gradient-gold">Frecuentes</span>
           </h2>
           <div className="gold-divider" />
