@@ -25,7 +25,7 @@ const ServicesSection = () => {
     <section className="py-24 px-6" id="servicios">
       <div className="container">
         <div className="text-center mb-16 fade-in-up">
-          <h2 className="font-heading text-3xl md:text-4xl font-light tracking-wide mb-4">
+          <h2 className="font-heading text-3xl md:text-4xl font-light tracking-[0.08em] mb-4">
             Servicios de <span className="text-gradient-gold">Autor</span>
           </h2>
           <div className="gold-divider mb-4" />
