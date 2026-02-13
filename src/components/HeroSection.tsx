@@ -1,5 +1,5 @@
 import heroImage from "@/assets/hero-barbershop.jpg";
-import logo from "@/assets/logo_stella.png";
+import logo from "@/assets/logo-stella-final.png";
 
 const HeroSection = () => {
   const scrollToBooking = () => {
@@ -18,7 +18,7 @@ const HeroSection = () => {
         <img
           src={logo}
           alt="Stella Estudio - Barbería, Peluquería y Estética"
-          className="h-[120px] mx-auto mb-10 opacity-0 animate-fade-in-up mix-blend-screen"
+          className="w-[160px] mx-auto mb-6 opacity-0 animate-fade-in-up"
         />
         <h1 className="font-heading text-3xl md:text-5xl lg:text-6xl font-light tracking-[0.08em] leading-tight mb-6 opacity-0 animate-fade-in-up [animation-delay:200ms]">
           <span className="text-gradient-gold">Excelencia</span> en Barbería,{" "}
