@@ -18,7 +18,7 @@ const HeroSection = () => {
         <img
           src={logo}
           alt="Stella Estudio - Barbería, Peluquería y Estética"
-          className="w-40 md:w-52 mx-auto mb-8 opacity-0 animate-fade-in-up"
+          className="h-[120px] mx-auto mb-8 opacity-0 animate-fade-in-up mix-blend-screen"
         />
         <h1 className="font-heading text-3xl md:text-5xl lg:text-6xl font-light tracking-wide leading-tight mb-6 opacity-0 animate-fade-in-up [animation-delay:200ms]">
           <span className="text-gradient-gold">Excelencia</span> en Barbería,{" "}

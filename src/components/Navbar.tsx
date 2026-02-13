@@ -17,7 +17,7 @@ const Navbar = () => {
     <nav className="fixed top-0 w-full z-50 bg-background/90 backdrop-blur-md border-b border-border/50">
       <div className="container flex items-center justify-between h-16">
         <a href="#">
-          <img src={logo} alt="Stella Estudio" className="h-10" />
+          <img src={logo} alt="Stella Estudio" className="h-10 mix-blend-screen" />
         </a>
         <div className="hidden md:flex items-center gap-8">
           {links.map((l) => (
